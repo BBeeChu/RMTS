@@ -77,7 +77,7 @@ RMTS
 </pre>
 
 
-## <img width="24" height="24" src="https://img.icons8.com/emoji/48/llama-emoji.png" alt="llama-emoji"/> How to Run Think Aloud with LLama-3.1
+## <img width="24" height="24" src="https://img.icons8.com/emoji/48/llama-emoji.png" alt="llama-emoji"/> How to Run LLama-3.1
 <pre>
 git lfs install
 git clone https://huggingface.co/meta-llama/Meta-Llama-3.1-8B-Instruct
